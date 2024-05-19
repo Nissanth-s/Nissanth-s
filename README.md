@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nissanth-s" alt="nissanth-s" /></a> </p>
 
-- 🔭 I’m currently working on [paisaonclick](https://paisaonclick.com/)
+- 🔭 I’m currently working on [Pricesenz](https://pricesenz.com/)
 
 - 🌱 I’m currently learning **Go, Blockchain**
 
