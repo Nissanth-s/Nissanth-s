@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nissanth-s-96572423b/](https://www.linkedin.com/in/nissanth/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nissanth/](https://www.linkedin.com/in/nissanth/)
 
 - 💬 Ask me about **React Js, Node Js**
 
